@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Atlask Conjuntivo e Osso</string>
+
+    <string name="action_settings">Sobre</string>
+
+    <string name="laminas_action_settings">Saiba mais</string>
+    <string name="lamina_name">Língua</string>
+
+
+
+
+
+    <string name="masto_texto"> Nesta lâmina de mesentério é possível distinguir os mastócitos corados com azul de toluidina. Outros núcleos corados em azul mais claro pertencem à outras células que compõem o tecido conjuntivo.\n\n
+        Mastócitos são células originadas das células tronco hematopoéticas situadas na medula óssea. Tem como função a liberação de moléculas farmacologicamente ativas (histamina, heparina) e participam de reações alérgicas e inflamatórias. São abundantes na derme e nos sistemas digestório e respiratório.\n\n
+        Seu citoplasma possui grânulos que se coram intensamente com azul de toluidina, porém, são metacromáticos, ou seja, coram-se em púrpura/vermelho, uma cor diferente do corante utilizado.\n\n
+        O núcleo do mastócito é pequeno e normalmente está encoberto pelos grânulos.\n\n
+
+        </string>
+
+    <string name="polipo_texto"> O pólipo nasal é uma formação pedunculada não neoplásica nas cavidades nasais em decorrência de um processo inflamatório crônico.\n\n
+        No pólipo nasal é possível identificar vários tipos celulares que compõem o tecido conjuntivo:\n\n
+        Plasmócito – Originária de células tronco hematopoéticas da medula óssea, os plasmócitos são linfócitos B maduros. A célula possui formato ovóide com citoplasma basófilo e núcleo localizado excêntricamente.\n\n
+        Neutrófilo - São a primeira linha de defesa do organismo: fagocitam, matam e digerem fungos e bactérias. Têm núcleo multilobulado ligados por pontes delgadas de cromatina. O neutrófilo maduro tem três ou quatro lóbulos nucleares mas o neutrófilo jovem não tem o núcleo lobulado e é denominado neutrófilo com núcleo em bastonete.\n\n
+        Linfócitos - São as principais células do sistema imune. São identificados pelo núcleo intensamente corado e esférico.\n\n
+        Fibroblasto - Tem como função a síntese de componentes fibrilares (colágeno e elastina) e não fibrilares (glicoproteínas e proteoglicanas) da matriz extracelular do tecido conjuntivo. Esta célula tem a capacidade potencial de se diferenciar em células altamente diferenciadas como as células do tecido ósseo, cartilaginoso, adiposo e muscular liso. Os fibroblastos apresentam um núcleo grande e com forma elíptica e cromatina pouco condensada.\n\n
+
+        </string>
+
+    <string name="ossoca_texto"> Osso por descalcificação – Os discos epifisários são cartilagens nas extremidades dos ossos longos que são reponsáveis pelo crescimento do osso (crescimento endocondral). Pode-se dividir os discos epifisários nas sequintes zonas:\n\n
+        1) Zona de reserva - consiste em pequenos agregados de condrócitos organizados aleatoriamente.\n
+        2) Zona de proliferação – condrócitos sofrem mitose e se organizam em colunas de células achatadas.\n
+        3) Zona de maturação – condrócitos volumosos.\n
+        4) Zona de cartilagem calcificada – zona estreita onde ocorre a calcificação da matriz cartilaginosa.\n
+        5) Zona de ossificação – zona em que é formado o tecido ósseo.\n\n
+        A cartilagem é continuamente produzida pelo lado da epífise. Na medida que os condrócitos vão amadurecendo, o tecido cartilaginoso do lado da diáfise vai sendo transformado em tecido ósseo, o que mantem o disco epifisário em um tamanho constante.\n\n
+        </string>
+
+    <string name="figado_texto">    Os macrófagos se originam de células tronco hematopoéticas, tem como função a fagocitose de substâncias estranhas e bactérias. Nesta lâmina o animal foi injetado com tinta nanquim e os macrófagos fagocitaram e acumularam o corante em grânulos citoplasmáticos.\n\n
+
+        </string>
+
+    <string name="hialina_texto"> No corpo humano a cartilagem hialina se encontra na parede das fossas nasais, na traqueia e nos brônquios, na extremidade ventral das costelas e recobrindo as superfícies articulares dos ossos longos.\n\n
+        O tecido cartilaginoso é um tipo de tecido conjuntivo especializado. É formado pelos condroblastos, condrócitos e pela matriz extracelular cartilaginosa. A cartilagem hialina fica envolta pelo pericôndrio, uma camada de tecido conjuntivo que, além de prover novos condrócitos para a cartilagem, é responsável pela sua nutrição, uma vez que a cartilagem não possue capilares.\n\n
+        Os condroblastos são as células que secretam o material extra-celular da cartilagem, que na cartilagem hialina é constituída principalmente por colágeno tipo II.\n\n
+        Os condrócitos são as células responsáveis pela manutenção da matriz cartilaginosa.
+
+        </string>
+
+    <string name="elastica_texto">No corpo humano a cartilagem elástica se encontra no pavilhão auditivo, no conduto auditivo externo, na tuba auditiva, na epiglote e na cartilagem cuneiforme da laringe.\n\n
+        O tecido cartilaginoso é um tipo de tecido conjuntivo especializado. É formado pelos condroblastos, condrócitos e pela matriz extracelular cartilaginosa. A cartilagem elástica fica envolta pelo pericôndrio, uma camada de tecido conjuntivo denso que, além de prover novos condrócitos para a cartilagem, é responsável pela sua nutrição, uma vez que a cartilagem não possui capilares.\n\n
+        Os condroblastos são as células que secretam o material extra-celular da cartilagem, que na cartilagem elástica além de conter colágeno, é constituída principalmente por fibras elásticas.\n\n
+        Os condrócitos são as células responsáveis pela manutenção da matriz cartilaginosa.
+        </string>
+
+    <string name="osso_texto">Osso compacto por desgaste -  O tecidoo ósseo maduro, ou lamelar, é constituído de fibras ósseas (colágenas) dispostas em lamelas de 3 a 7 µm. Em cada lamela, as fibras colágenas são paralelas entre si, mas de uma lamela para outra, as fibras tem direção distintas.\n\n
+        Os osteócitos, derivados de osteoblastos, ocupam as lacunas situadas entre as lamelas e se comunicam através dos canalículos que os conectam ao canal de Havers, por onde passam vasos sanguíneos e nervos.\n\n
+        Os sistemas de Havers consistem no canal de Havers central e as lamelas concêntricas que o envolvem, juntamente com as lacunas que abrigavam os osteócitos.\n\n
+
+        </string>
+
+
+</resources>
